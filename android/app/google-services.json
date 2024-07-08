@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732088493212",
+    "project_id": "taprobuy",
+    "storage_bucket": "taprobuy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732088493212:android:c039b512d3b69226f23959",
+        "android_client_info": {
+          "package_name": "com.example.taprobuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIljO7amrXXdvn0UxndJjvDR3OICRJL9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
